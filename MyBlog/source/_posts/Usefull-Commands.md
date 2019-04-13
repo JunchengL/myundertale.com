@@ -2,6 +2,10 @@
 title: Usefull Commands
 date: 2019-04-12 23:03:20
 tags:
+  - Linux
+categories: 
+  - Linux
+description: Some usefull commands in my work
 ---
 
 # This post is to remind me of some usefull commands in my work.
